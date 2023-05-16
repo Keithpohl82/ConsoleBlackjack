@@ -1,0 +1,1 @@
+start "" "U:\Blackjack\Blackjack.py"
